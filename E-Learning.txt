@@ -14,7 +14,14 @@ class authenticate
 }
 class CourseManagement
 {
+cout<<"MANAGE";
+cin>>;
+}
+class StudentEnrollment
+{
+
 }
 class StudentEnrollment
 {
 }
+
