@@ -10,4 +10,8 @@ Class E-Learning
 }
 class authenticate
 {
+
+}
+class CourseManagement
+{
 }
