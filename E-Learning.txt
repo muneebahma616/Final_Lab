@@ -19,4 +19,9 @@ cin>>;
 }
 class StudentEnrollment
 {
+
 }
+class StudentEnrollment
+{
+}
+
